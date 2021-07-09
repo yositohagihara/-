@@ -6,6 +6,7 @@ public class Main {
 
 		System.out.println("萩原義人");
 		System.out.println("萩原義人");
+		System.out.println("萩原義人");
 
 }
 }
