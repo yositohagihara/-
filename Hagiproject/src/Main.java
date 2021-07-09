@@ -2,11 +2,8 @@
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
 
-		System.out.println("tondasyusaku2");
-
-		System.out.println("hujiwara");
+		System.out.println("hujiwara2");
 
 	}
 
