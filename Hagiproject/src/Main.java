@@ -5,6 +5,8 @@ public class Main {
 
 		System.out.println("hujiwara2");
 
+		System.out.println("tonda変更");
+
 	}
 
 
